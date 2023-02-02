@@ -69,8 +69,9 @@
         <span class="">Settings</span>
       </button>
     </div>
+    <v-spacer></v-spacer>
     <!--  Navigation part two-->
-    <div class="mt-3 ml-8">
+    <div class="mt-3 ml-8 justify-end">
       <div class="flex flex-wrap flex-row">
         <div class="flex flex-wrap flex-row">
           <button class="text-lg hover:text-white duration-150 cursor-pointer">
